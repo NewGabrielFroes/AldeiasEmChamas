@@ -1,0 +1,21 @@
+@import url(//db.onlinewebfonts.com/c/f793a2c530106da61b2ded9010e1fb57?family=Edo+SZ);
+@import url('https://fonts.googleapis.com/css2?family=Voces&display=swap');
+@font-face {font-family: "Edo SZ"; src: url("//db.onlinewebfonts.com/t/f793a2c530106da61b2ded9010e1fb57.eot"); src: url("//db.onlinewebfonts.com/t/f793a2c530106da61b2ded9010e1fb57.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/f793a2c530106da61b2ded9010e1fb57.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/f793a2c530106da61b2ded9010e1fb57.woff") format("woff"), url("//db.onlinewebfonts.com/t/f793a2c530106da61b2ded9010e1fb57.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/f793a2c530106da61b2ded9010e1fb57.svg#Edo SZ") format("svg"); } 
+
+.menu {
+    background-color: black;
+    border-radius: 25px;
+    color: #FFFFFF;
+    font-size: 2rem;
+    font-family: "Edo SZ";
+    height: 100px;
+    margin: auto;
+    width: 60%;
+}
+
+.menu__lista {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
