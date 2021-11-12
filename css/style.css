@@ -61,3 +61,17 @@
     position: relative;
     top: 20px;
 }
+
+.menu__item {
+    font-size: 21px;
+}
+
+.menu__link {
+    text-decoration: none;
+    color: inherit;
+}
+
+.menu__link:hover {
+    color: red;
+}
+
