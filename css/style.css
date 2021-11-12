@@ -13,6 +13,10 @@
 @import url("prodDesmatamento/prodDesmatamento__titulo.css");
 @import url("prodDesmatamento/prodDesmatamento__descricao.css");
 @import url("prodDesmatamento/prodDesmatamento__grafico.css");
+@import url("informacao/informacao.css");
+@import url("informacao/informacao__container.css");
+@import url("informacao/informacao__titulo.css");
+@import url("informacao/informacao__descricao.css");
 @import url("mobilize/mobilize.css");
 @import url("mobilize/mobilize__container.css");
 @import url("mobilize/mobilize__titulo.css");
