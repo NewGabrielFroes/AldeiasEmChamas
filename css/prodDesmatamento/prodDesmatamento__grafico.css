@@ -1,7 +1,13 @@
 .prodDesmatamento__grafico {
+    width: 70%;
+    margin: auto;
+}
+
+
+/* .prodDesmatamento__grafico {
     background-image: url(../../img/prodDesmatamento__grafico.jpeg);
     background-repeat: no-repeat;
     background-size: 80%;
     background-position: center;
     height: 500px;
-}
+} */
