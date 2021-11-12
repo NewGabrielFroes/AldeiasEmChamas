@@ -1,6 +1,36 @@
+@import url("normalize.css");
+@import url("reset.css");
+@import url("impacto/impacto.css");
+@import url("impacto/impacto__titulo.css");
+@import url("impacto/impacto__descricao.css");
+@import url("impacto/impacto__imagens.css");
+@import url("comunidades/comunidades.css");
+@import url("comunidades/comunidades__container.css");
+@import url("comunidades/comunidades__titulo.css");
+@import url("comunidades/comunidades__descricao.css");
+@import url("comunidades/comunidades__aldeias.css");
+@import url("prodDesmatamento/prodDesmatamento.css");
+@import url("prodDesmatamento/prodDesmatamento__titulo.css");
+@import url("prodDesmatamento/prodDesmatamento__descricao.css");
+@import url("prodDesmatamento/prodDesmatamento__grafico.css");
+@import url("mobilize/mobilize.css");
+@import url("mobilize/mobilize__container.css");
+@import url("mobilize/mobilize__titulo.css");
+@import url("mobilize/mobilize__descricao.css");
+@import url("mobilize/mobilize__peticoes.css");
+@import url("mobilize/mobilize__peticoes__grupo.css");
+@import url("mobilize/mobilize__peticoes__grupo2.css");
+@import url("mobilize/mobilize__peticoes--survival.css");
+@import url("mobilize/mobilize__peticoes--agroEFogo.css");
+@import url("mobilize/mobilize__peticoes--isa.css");
+@import url("mobilize/mobilize__peticoes--terrasIndigenas.css");
+@import url("footer.css");
+
+
 @import url(//db.onlinewebfonts.com/c/f793a2c530106da61b2ded9010e1fb57?family=Edo+SZ);
 @import url('https://fonts.googleapis.com/css2?family=Voces&display=swap');
 @font-face {font-family: "Edo SZ"; src: url("//db.onlinewebfonts.com/t/f793a2c530106da61b2ded9010e1fb57.eot"); src: url("//db.onlinewebfonts.com/t/f793a2c530106da61b2ded9010e1fb57.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/f793a2c530106da61b2ded9010e1fb57.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/f793a2c530106da61b2ded9010e1fb57.woff") format("woff"), url("//db.onlinewebfonts.com/t/f793a2c530106da61b2ded9010e1fb57.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/f793a2c530106da61b2ded9010e1fb57.svg#Edo SZ") format("svg"); } 
+
 
 .banner{
     display: grid;    
