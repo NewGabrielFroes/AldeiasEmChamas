@@ -1,0 +1,4 @@
+.mobilize__peticoes__grupo {
+    display: flex;
+    justify-content: space-around;
+}

@@ -1,0 +1,9 @@
+.mobilize__peticoes--isa {
+    background-image: url(../../img/isa.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 260px;
+    height: 132px;
+    border-radius: 51px;
+    align-self: flex-end;
+}
