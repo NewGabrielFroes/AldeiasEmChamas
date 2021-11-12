@@ -8,7 +8,7 @@
     margin-right: 104px;
 }
 
-.aldeia{
+.aldeia {
     align-items: center;
     background-color: #F2994A;
     border-radius: 16px;
@@ -16,14 +16,19 @@
     flex-direction: column;
     justify-content: space-evenly;
     font-family: "Voces", serif;
-    font-size: 2rem;
-    line-height: 2rem;
     padding: 20px 20px;
     text-align: center;
 }
 
-.aldeia p{
-    font-size: 1.5rem;
+.aldeia--nome {
+    font-size: 2rem;
+    line-height: 2.5rem;
+}
+
+.aldeia--descricao {
+    font-size: 1rem;
+    line-height: 2.5rem;
+    margin: 10px;
 }
 
 .aldeia--1 {
