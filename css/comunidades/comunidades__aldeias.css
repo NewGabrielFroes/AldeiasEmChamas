@@ -75,3 +75,39 @@
     height: 80px;
     width: 80px;
 }
+
+.aldeia__mapa--1 {
+    background-image: url("../../img/mapa-porq.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 200px;
+}
+
+.aldeia__mapa--2 {
+    background-image: url("../../img/mapa-kanela.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 200px;
+}
+
+.aldeia__mapa--3 {
+    background-image: url("../../img/mapa-awa.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 200px;
+}
+
+.aldeia__mapa--4 {
+    background-image: url("../../img/mapa-kanelamemo.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 200px;
+}
+
+.aldeia__mapa--5 {
+    background-image: url("../../img/mapa-bacuri.jpg");
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 200px;
+}
