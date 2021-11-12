@@ -49,6 +49,7 @@
     position: fixed;
     top: 10px;
     width: 60%;
+    z-index: 999;
 }
 
 .menu__lista {
