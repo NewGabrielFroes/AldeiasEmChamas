@@ -14,21 +14,10 @@
     border-radius: 16px;
     display: flex;
     flex-direction: column;
-    justify-content: space-evenly;
+    justify-content: space-between;
     font-family: "Voces", serif;
     padding: 20px 20px;
     text-align: center;
-}
-
-.aldeia--nome {
-    font-size: 2rem;
-    line-height: 2.5rem;
-}
-
-.aldeia--descricao {
-    font-size: 1rem;
-    line-height: 2.5rem;
-    margin: 10px;
 }
 
 .aldeia--1 {
@@ -73,7 +62,19 @@
     border-style: none;
     color: #FFFFFF;
     height: 80px;
+    margin: 10px;
     width: 80px;
+}
+
+.aldeia--nome {
+    font-size: 2rem;
+    line-height: 2.5rem;
+}
+
+.aldeia--descricao {
+    font-size: 1rem;
+    line-height: 2.5rem;
+    margin: 10px;
 }
 
 .aldeia__mapa--1 {
