@@ -1,12 +1,10 @@
 @import url("normalize.css");
 @import url("reset.css");
-@import url("impacto/impacto.css");
-@import url("impacto/impacto__titulo.css");
+@import url("titulo.css");
+@import url("container__secao.css");
 @import url("impacto/impacto__descricao.css");
 @import url("impacto/impacto__imagens.css");
 @import url("comunidades/comunidades.css");
-@import url("comunidades/comunidades__container.css");
-@import url("comunidades/comunidades__titulo.css");
 @import url("comunidades/comunidades__descricao.css");
 @import url("comunidades/comunidades__aldeias.css");
 @import url("prodDesmatamento/prodDesmatamento.css");
